@@ -1,0 +1,21 @@
+product_id,product_name,category,cost_price,list_price,active
+1,Laptop 15-inch,mobile,8219.38,12793.94,Y
+2,Wireless Mouse,Office,677.66,1054.44,No
+3,Mechanical Keyboard,Networking,3930.89,6467.99,Yes
+4,24-inch Monitor,Office,4403.17,5989.4,Y
+5,USB-C Hub,Mobile,8345.62,12218.46,Y
+6,Bluetooth Headphones,computing,4111.97,5524.19,N
+7,Office Chair,Printing,,2179.18,Y
+8,Desk Lamp,Computing,463.87,549.75,Yes
+9,External SSD 1TB,audio,,1422.92,No
+10,Power Bank,Networking,1837.0,2931.22,Y
+11,Smartphone 128GB,Networking,202.59,267.18,Yes
+12,Tablet 10-inch,Accessories,2501.5,3177.76,Yes
+13,Webcam HD,Accessories,,10475.43,N
+14,Wi-Fi Router,printing,312.36,450.44,N
+15,Portable Speaker,Mobile,1560.04,2547.86,N
+16,HDMI Cable,accessories,,5399.1,Y
+17,Laptop Backpack,Office,4906.99,7149.81,No
+18,Smartwatch,Mobile,1163.84,1481.68,N
+19,Printer,Accessories,2148.17,3125.17,N
+20,Ink Cartridge,Audio,2461.96,2835.15,Yes
